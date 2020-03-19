@@ -1,2 +1,2 @@
 # Simple
-Simple intro python 
+intro
